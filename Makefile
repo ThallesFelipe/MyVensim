@@ -4,6 +4,8 @@ functional and unit tests:
 
 clean: 
 	rm -f *.o main
+	rm -f *.o bin/funcexe
+	rm -f *.o bin/unitexe
 
 run:
 	./main
