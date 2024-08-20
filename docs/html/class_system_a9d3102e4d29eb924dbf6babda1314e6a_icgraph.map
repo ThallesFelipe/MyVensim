@@ -1,0 +1,13 @@
+<map id="System::getId" name="System::getId">
+<area shape="rect" id="Node000001" title="this methor returns the id of a system" alt="" coords="266,147,368,173"/>
+<area shape="rect" id="Node000002" href="$class_flow_exponential_implementation.html#afd0842f612160927b4ed91dbf5cd2324" title="Comparison operator for flowExponential." alt="" coords="5,5,218,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="294,136,260,98,216,62,194,51,196,46,219,58,264,94,298,133"/>
+<area shape="rect" id="Node000003" href="$class_flow_implementation.html#afa2f10e5f7865abcc5815b9070591a39" title="Construct a new Flow object." alt="" coords="39,72,184,115"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="260,144,217,129,181,118,183,113,219,124,262,139"/>
+<area shape="rect" id="Node000004" href="$class_flow_logistic_implementation.html#abf8ddada89e075e66a28d9fde44828d9" title="Comparison operator for flowExponential." alt="" coords="17,139,206,181"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="250,163,207,163,207,157,250,157"/>
+<area shape="rect" id="Node000005" href="$class_system_implementation.html#aa2a612ee0a73b278eb15dcabd95fe06a" title="This method is overloading the &#39;==&#39; operator comparing a system." alt="" coords="34,205,189,248"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="262,181,219,196,183,207,181,202,217,191,260,176"/>
+<area shape="rect" id="Node000006" href="$class_model_implementation.html#a7b93f28471ed76453ec6314dd1e606ab" title="this method is to show the model." alt="" coords="39,272,184,315"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="298,187,264,226,219,262,185,278,183,273,216,258,260,222,294,184"/>
+</map>

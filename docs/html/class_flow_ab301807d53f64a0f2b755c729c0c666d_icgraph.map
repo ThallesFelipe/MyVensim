@@ -1,0 +1,5 @@
+<map id="Flow::getId" name="Flow::getId">
+<area shape="rect" id="Node000001" title="This method returns the name of a flow." alt="" coords="190,13,274,40"/>
+<area shape="rect" id="Node000002" href="$class_flow_implementation.html#a80976a00ed1d09dd991f482cc77ac493" title="This method is overloading the &#39;=&#39; operator, &quot;cloning&quot; from one flow to another." alt="" coords="5,5,142,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,29,142,29,142,24,174,24"/>
+</map>
